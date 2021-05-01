@@ -1,4 +1,4 @@
-# AOR 第 25 组程序使用说明
+# AOR 程序使用说明
 
 ## 编程语言
 
@@ -28,3 +28,5 @@ scipy 1.1.0
 
 第三方库的输出介绍：</br>
 fun 是最优目标函数值，message 和 success 共同描述了最优化状态，x 是最优解对应决策变量的取值。
+
+PS：支持Simplex和Dual-Simplex两种方法。
